@@ -47,10 +47,6 @@ const Conversations = () => {
         dispatcher(setHasMoreConversations(false));
       }
     } catch (error) {
-      toast.error("Error getting conversations", {
-        duration: 4000,
-        position: "top-center",
-      });
     } finally {
       dispatcher(setLoading(false));
     }

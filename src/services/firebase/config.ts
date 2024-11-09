@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "med-o-chat-3ddc0",
   storageBucket: "med-o-chat-3ddc0.firebasestorage.app",
   messagingSenderId: "752961286840",
-  appId: "1:752961286840:web:9540d7310ad8ff3ed47a4d"
+  appId: "1:752961286840:web:9540d7310ad8ff3ed47a4d",
 };
 
 // Initialize Firebase
