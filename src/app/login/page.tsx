@@ -62,7 +62,7 @@ export default function LoginPage() {
             <div className="flex flex-col justify-center items-center space-y-4">
               <div className="space-y-2 text-center">
                 <h1 className="text-primary text-4xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                  Med-o-Chat
+                  Niramay Chat
                 </h1>
                 <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
                   Type locally, converse globally

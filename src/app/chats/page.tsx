@@ -25,7 +25,7 @@ const ChatsPage = () => {
       <header className="px-3 2xl:px-16 mb-2 lg:mb-8">
         <div className="flex items-center gap-4 justify-between">
           <h1 className="text-primary text-2xl font-bold tracking-tighter sm:text-3xl xl:text-4xl/none">
-            Med-o-Chat
+            Niramay Chat
           </h1>
           <Link href={"https://med-o-next-video-chat-app.vercel.app"}>
             <Button>Video Chat</Button>

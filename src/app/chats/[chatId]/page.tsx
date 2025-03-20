@@ -67,8 +67,7 @@ export default function ChatDetails() {
         />
         <MessagesContainer conversationId={memoizedChatId.toString()} />
         <p className="mb-4 text-center text-balance text-sm text-slate-500">
-          This is the start of your epic conversation with{" "}
-          <span className="font-bold">{otherMember?.displayName}</span>
+          You have not sent any messages to this chat.
         </p>
         {otherMember && (
           <ChatInput
